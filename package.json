@@ -1,0 +1,33 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marijanbrvar/Library.git"
+  },
+  "keywords": [
+    "Book",
+    "library"
+  ],
+  "author": "Marijan & Donut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marijanbrvar/Library/issues"
+  },
+  "homepage": "https://github.com/marijanbrvar/Library#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.25.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.2.0",
+    "stylelint": "^7.13.0",
+    "stylelint-config-standard": "^16.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^1.5.2"
+  }
+}

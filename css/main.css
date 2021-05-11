@@ -1,0 +1,32 @@
+html,
+body {
+  height: 100%;
+}
+
+.container {
+  max-width: 600px;
+}
+
+.remove {
+  color: red;
+  cursor: pointer;
+}
+
+.remove:hover {
+  color: gray;
+}
+
+.status {
+  color: rgb(1, 131, 252);
+  cursor: pointer;
+}
+
+.status:active {
+  color: rgb(1, 131, 252);
+  cursor: pointer;
+}
+
+.status:hover {
+  color: #7a7a7a;
+  cursor: pointer;
+}
